@@ -1,0 +1,4 @@
+Api list :
+https://sgp1.blynk.cloud/external/api/get?token=XS_qvHlGxMEwrBXajH3Jzjd8LMkdMvsW&v1 // Tinggi Air
+https://sgp1.blynk.cloud/external/api/get?token=XS_qvHlGxMEwrBXajH3Jzjd8LMkdMvsW&v2 // Water In
+https://sgp1.blynk.cloud/external/api/get?token=XS_qvHlGxMEwrBXajH3Jzjd8LMkdMvsW&v3 // Water Out
